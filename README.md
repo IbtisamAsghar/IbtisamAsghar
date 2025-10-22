@@ -12,15 +12,6 @@
 
 ---
 
-### 🎯 **Current Focus & Progress**
-<div align="center">
-  <img src="https://progress-bar.dev/75/?scale=100&title=Generative%20AI&color=00bfff" alt="Generative AI Progress">
-  <img src="https://progress-bar.dev/60/?scale=100&title=App%20Dev%20(Dart/Flutter)&color=008080" alt="App Development Progress">
-  <img src="https://progress-bar.dev/85/?scale=100&title=ML%20%26%20Deep%20Learning&color=ff6347" alt="Machine Learning Progress">
-</div>
-
-*<p align="center">Note: You can easily update the progress percentages in the image URLs above!</p>*
-
 ---
 
 ### 🌐 **Connect with Me**
@@ -79,13 +70,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote">
 </div>
 
----
 
-### 🌟 **Profile Views**
-<div align="center">
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=IbtisamAsghar&icon=0&color=6" alt="Profile Views"/>
-    </a>
-</div>
-
-<!-- Generated with GPRM ( https://gprm.itsvg.in ) -->
